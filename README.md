@@ -25,3 +25,6 @@
 
 ## Second Seminar notes added
 
+* *git branch* - команда, отображающая список существующих веток
+
+* *git merge branch_name* - команда, осуществляющая слияние текущей ветки с branch_name
