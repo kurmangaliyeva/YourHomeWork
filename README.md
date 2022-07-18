@@ -31,3 +31,8 @@
 
 
 ## Third Seminar 
+
+* *git checkout branch_name* - команда, переключающая на новую ветку в системе
+
+* *git checkout -b branch_name* - команда, создаюшая и сразу перенаправляющая на новую ветку
+
