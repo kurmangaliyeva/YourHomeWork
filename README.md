@@ -23,3 +23,5 @@
   * *clean* - команда, которая чистит все текущие записи 
 
 
+## Second Seminar notes added
+
